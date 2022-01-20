@@ -20,8 +20,11 @@
       Link to the .ipynb file - 
       https://github.com/amyush/Audio-steganography.git
       
-      To open the file in colab, copy the above link and in colab page, paste it in the git-hub url.
+      - To open the file in colab, copy the above link and in colab page, paste it in the git-hub url.
       ![image](https://user-images.githubusercontent.com/19607227/150403341-c61a62f3-acd5-48a2-b4e9-47d5e90c629f.png)
+      - **OR**
+      Open the below link to colab -
+      https://drive.google.com/file/d/1-H9f0HOtvoacn5PB2R1qMGvzBdPYmMOU/view?usp=sharing
       
   - Step-2 Once open, run all the cells from the beginning.
   - Step-3 Finally run the **result** segment to see the results of both encoding the message in the audio file and extracting the message from the audio file.
