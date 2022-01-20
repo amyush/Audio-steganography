@@ -16,8 +16,14 @@
 - **Key** - This is the secret key which is used to encode the message. Here, key is used to decide the bits where the message bits are to be encoded.
 
 # How-to-run
-  - Step-1 Open the .ipynb file in colab or jupyter notebook.
-  - Step-2 Run all the cells from the beginning.
+  - Step-1 Open the Audio-steganography.ipynb file in colab or jupyter notebook.
+      Link to the .ipynb file - 
+      https://github.com/amyush/Audio-steganography.git
+      
+      To open the file in colab, copy the above link and in colab page, paste it in the git-hub url.
+      ![image](https://user-images.githubusercontent.com/19607227/150403341-c61a62f3-acd5-48a2-b4e9-47d5e90c629f.png)
+      
+  - Step-2 Once open, run all the cells from the beginning.
   - Step-3 Finally run the **result** segment to see the results of both encoding the message in the audio file and extracting the message from the audio file.
 
 ![image](https://user-images.githubusercontent.com/19607227/150329261-46265f3d-72be-492b-ac4f-b833ed63dc23.png)
