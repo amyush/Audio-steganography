@@ -8,7 +8,7 @@
 
 # Inputs
 **Encoding the messgae**
-  -   **Filename** - This takes the name of the file alongwith the extension where the message is to be encoded(hidden).
+  -   **Filename** - This takes the name of the file alongwith the extension where the message is to be encoded(hidden). This file is taken from the gitHub repository. Any other file, if to be used, should be uploaded to the the same repository. For any sub-folders, relative path from the .ipynb file should be provided.
   -   **Key** - This is the secret key which is used to encode the message. Here, key is used to decide the bits where the message bits are to be encoded.
   -   **Message** - This is the message which is to be hidden in the audio.
 
