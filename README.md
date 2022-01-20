@@ -12,6 +12,6 @@
 -   **Message** - This is the message which is to be hidden in the audio.
 
 # How-to-run
-Step-1. Open the .ipynb file in colab or jupyter notebook.
-Step-2. Run all the cells from the beginning.
-Step-3. Finally run the **result** segment to see the results of both encoding the message in the audio file and extracting the message from the audio file.
+  - Step-1 Open the .ipynb file in colab or jupyter notebook.
+  - Step-2 Run all the cells from the beginning.
+  - Step-3 Finally run the **result** segment to see the results of both encoding the message in the audio file and extracting the message from the audio file.
